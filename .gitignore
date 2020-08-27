@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# General Housekeeping
+.DS_Store
+desktop.ini
+.vscode
+*.iml
+.idea
+.eclipse
